@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_next_key">下一步</string>
+    <string name="label_send_key">发送</string>
+    <string name="label_go_key">访问</string>
+    <string name="ime_name">远程键盘输入法</string>
+</resources>

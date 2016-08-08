@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "si.famnit.android.softkeyboard"
-        minSdkVersion 20
+        minSdkVersion 18
         targetSdkVersion 20
     }
 
