@@ -5,10 +5,13 @@ android {
     useLibrary 'org.apache.http.legacy'
     buildToolsVersion "24.0.0"
 
+
     defaultConfig {
         applicationId "si.famnit.android.softkeyboard"
         minSdkVersion 18
         targetSdkVersion 20
+        versionName "1.0.0"
+        versionCode 1
     }
 
     buildTypes {
